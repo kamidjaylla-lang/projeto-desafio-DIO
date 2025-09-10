@@ -1,0 +1,4 @@
+Pensamento Computacioal
+
+O Pensamento Computacinal, envolve a identificação de um problema e a solução, de forma que aja uma sucessão de instruções (passo-a-passo) para que se alcance a conclusão por meio de um algorítimo. O objetivo é alcançar a melhor solução para cada problema em variadas situações, dando compreensão máxima, tanto para humano, quanto para maquina.
+Esse conceito não se aplica como disciplina acadêmica, visto que é uma habilidade generalista, que pode ser aplicada em diversas áreas do conhecimento.
