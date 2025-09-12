@@ -1,4 +1,28 @@
 Pensamento Computacioal
 
-O Pensamento Computacinal, envolve a identificação de um problema e a solução, de forma que aja uma sucessão de instruções (passo-a-passo) para que se alcance a conclusão por meio de um algorítimo. O objetivo é alcançar a melhor solução para cada problema em variadas situações, dando compreensão máxima, tanto para humano, quanto para maquina.
+O Pensamento Computacinal, envolve a identificação de um problema e a solução, de forma que aja uma sucessão de instruções (passo-a-passo) para que se alcance a conclusão por meio de um algoritimo. O objetivo é alcançar a melhor solução para cada problema em variadas situações, dando compreensão máxima, tanto para humano, quanto para maquina.
 Esse conceito não se aplica como disciplina acadêmica, visto que é uma habilidade generalista, que pode ser aplicada em diversas áreas do conhecimento.
+
+Baseado em 4 pilares:
+
+-Decomposição: Dividir um problema em subproblemas, para torna-lo mais compreensível e facilitando sua solução.
+
+Exemplo: Divisão das camadas de um bolo, massa, recheio e cobertura.
+
+Exemplo Complexo: Montagem de um quebra-cabeça, nesse caso existem varias formas de solucionar, sendo determinando de forma intuitiva, identificando cores, formas, tamanhos, etc.
+
+-Reconhecimento de padrões: Identificar padrões ou tendencias, seja por similaridades ou diferenças entre os problemas.
+
+Exemplo de Padrão Comportamental: Quando a bolsa de valores cai, a tendencia dos investidores é vender suas ações, quando a bolsa sobe, a tendência se torna a compra de ações (efeito manada).
+
+Exemplo de Padrão por Diferença: Enquanto a cor vermelha é geralmente atribuída a perigo, alerta e atenção, a cor verde sinaliza segurança, aprovação e permissão.
+
+-Abstração: Extrapolar o conceito do problema para uma forma generalista.
+
+Exemplo: A função de um carro, em vez de se preocupar com detalhes de fabricação, cor ou estética, podemos abstrair e entender que um carro serve para nos transportar de um lugar para outro.
+
+Exemplo 2: Para uma receita por cozimento, o mais importante no modo de preparo é saber o ponto do fogo e o tempo, para que a comida não queime e também não fique crua.
+
+-Design de algoritimos: Automatizar, definir passo-a-passo a solução do problema. Dito isso, é possível agilizar as soluções através do processo continuo, que consiste em definir uma solução, testar e melhorar essa conclusão de modo que remova possíveis falhas ou atrasos, e então se repete esse ciclo na ordem de analise, teste e refinamento, dando eficiência ao máximo para a solução.
+
+
