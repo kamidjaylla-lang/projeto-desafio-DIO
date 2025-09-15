@@ -25,4 +25,20 @@ Exemplo 2: Para uma receita por cozimento, o mais importante no modo de preparo 
 
 -Design de algoritimos: Automatizar, definir passo-a-passo a solução do problema. Dito isso, é possível agilizar as soluções através do processo continuo, que consiste em definir uma solução, testar e melhorar essa conclusão de modo que remova possíveis falhas ou atrasos, e então se repete esse ciclo na ordem de analise, teste e refinamento, dando eficiência ao máximo para a solução.
 
+As habilidades humanas de abstração, resolução de problemas, automatização e expressão de soluções são combinadas com os recursos computacionais de análise, execução de soluções e avaliação, os resultados são efetivos e práticos com a tendencia de melhorar por refinamento, explorando ao máximo o aprimoramento de soluções.
+
+Esse conceito pode ser aplicado diversas áreas, aqui vão alguns exemplos:
+
+Química - Aperfeiçoamento de reações químicas pela utilização de algoritimos, através da identificação de componentes químicos 
+
+Engenharia - Simulações de aeronaves executadas via software em detrimento do túnel de vento.
+
+Biologia - Modelagem de mapeamento do genoma humano.
+
+Computação - Simulação de problemas de alta ordem em sistemas aprimorados para desempenho.
+
+Conclusão: As competências gerais desse conceito são, pensamento sistemático, colaboração dentro da equipe, criatividade e design e por fim, facilitador geral para problemas.
+
+
+
 
