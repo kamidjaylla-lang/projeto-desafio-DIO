@@ -1,0 +1,15 @@
+Raciocínio Logico 
+
+O Raciocínio Logico é uma forma de pensamento estruturado ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de de um problema, permitindo que problemas, permitindo que sua complexidade tenha uma compreensão mais ampla e ágil.
+
+Classificações de Raciocínio Lógico:
+
+Indução - É um processo de inferência onde se chega a uma conclusão geral a partir de observações de casos específicos, como por exemplo, observar que vários cisnes que você viu são brancos, e então concluir que todos os cisnes são brancos.
+
+Dedução - É um processo de raciocínio que parte de premissas gerais para chegar a conclusões especificas.
+
+Exemplo: Premissa maior: Todos os homens são mortais - Premissa menor: Sócrates é um homem - Conclusão: Logo, Sócrates é mortal.
+
+Abdução: Raciocínio que busca a melhor explicação possível para um fenômeno, partindo da observação que contextualize a premissa da situação.
+
+Exemplo: Situação: Você encontra o chão do quintal molhado - Abdução: Você pode inferir que choveu (mesmo que não tenha visto a chuva ) se baseando em experiencias anteriores, provavelmente choveu.
