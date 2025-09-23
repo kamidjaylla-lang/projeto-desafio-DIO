@@ -21,7 +21,7 @@ Exemplo de Padrão por Diferença: Enquanto a cor vermelha é geralmente atribu�
 
 Exemplo: A função de um carro, em vez de se preocupar com detalhes de fabricação, cor ou estética, podemos abstrair e entender que um carro serve para nos transportar de um lugar para outro.
 
-Exemplo 2: Para uma receita por cozimento, o mais importante no modo de preparo é saber o ponto do fogo e o tempo, para que a comida não queime e também não fique crua.
+Exemplo 2: Um mapa é uma abstração do mundo real, apresentando apenas os elementos essenciais par um determinado propósito, como estradas e cidades, ignorando os detalhes de cada pedra ou árvore. 
 
 -Design de algoritimos: Automatizar, definir passo-a-passo a solução do problema. Dito isso, é possível agilizar as soluções através do processo continuo, que consiste em definir uma solução, testar e melhorar essa conclusão de modo que remova possíveis falhas ou atrasos, e então se repete esse ciclo na ordem de analise, teste e refinamento, dando eficiência ao máximo para a solução.
 
