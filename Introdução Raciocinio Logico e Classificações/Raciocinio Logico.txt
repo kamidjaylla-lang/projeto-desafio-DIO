@@ -74,4 +74,31 @@ Algoritimos
 
 Processamento de Dados: O computador recebe, manipula e armazena dados. 
 
+Definido também como um processo de resolução de problemas, passo-a-passo utilizando instruções para determinar o que precisa ser feito, de forma que se chegue a um entendimento entre humano e maquina.
 
+Desenvolvimento de programa:
+
+- Análise: Estudo e definição dos dados de entrada e saída.
+
+- Algoritimo: Descreve o problema por meio de ferramentas narrativas, fluxograma, ou pseudocódigo.
+
+- Codificação: O algoritimo é codificado de acordo com a linguagem de programação escolhida.
+
+Resolução
+    |
+- Sequencia de passos com objetivo definido
+- Execução de tarefas especificas 
+- Conjunto de operações que resultam em uma sucessão finita de ações.
+
+Exemplos de algoritomos:
+
+- Preparo de sanduiche - Cortar o pão, entre ele, pôr uma fatia de presunto e outra de queijo, feche o pão.
+
+- Trocar uma lâmpada - Pôr uma escada abaixo da lâmpada, suba na escada com a lâmpada nova em mãos, retire a lâmpada usada, instale a nova lâmpada, desça da escada e guarde-a.
+
+Como construir um algoritimo:
+
+- Compreensão do problema - Pontos mais importantes.
+- Definir dados de entrada - Dados fornecidos e Cenário.
+- Definir processamento - Cálculos e restrições.
+- Utilizar um método de construção - Teste de diagnostico - Construção e refinamento do algiritimo.
