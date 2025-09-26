@@ -101,4 +101,29 @@ Como construir um algoritimo:
 - Compreensão do problema - Pontos mais importantes.
 - Definir dados de entrada - Dados fornecidos e Cenário.
 - Definir processamento - Cálculos e restrições.
-- Utilizar um método de construção - Teste de diagnostico - Construção e refinamento do algiritimo.
+- Utilizar um método de construção - Teste de diagnostico - Construção e refinamento do algoritimo.
+
+Tipos de Construção de Algoritimos:
+
+- Narrativa - Utilização da linguagem natural - Sem conceitos novos - Diversas interpretações possíveis.
+
+- Fluxograma - Utilização de símbolos pré-definidos - Simples entendimento - Conhecimento prévio das estruturas de símbolos.
+
+- Pseudocódigo - Linguagens de programação - Regras definidas - Passos a serem seguidos.
+
+Exemplo: Multiplicação de dois números.
+
+Passo 1 - Recebe os valores - |Inicio| - |2.2|
+Passo 2 - Multiplica - |M = 2.2|
+Passo 3 - Imprime Resultado - |M = 4| - Fim
+
+Exemplo de Situação Alternativa "Se" ou "Caso Contrario": Media dos Alunos.
+
+Passo 1 - Recebe os Valores - |Inicio| - |N1, N2|
+Passo 2 - Media Aritmética - |M = (N1+N2)/2|
+Passo 3 - Imprime Resultado - |M = N3|
+Passo 4 - Regra/Condição da Aprovação - |M| - |=>7| - Aprovado.
+                                         |
+                                        |<7| - Reprovado.
+
+Estudo de Casos
