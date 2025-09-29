@@ -127,3 +127,23 @@ Passo 4 - Regra/Condição da Aprovação - |M| - |=>7| - Aprovado.
                                         |<7| - Reprovado.
 
 Estudo de Casos
+
+Exemplo: Perdido na floresta.
+
+Como resolver o problema utilizando pensamento computacional:
+- Identificar mecanismos.
+- Recursos Comuns.
+- Detalhes mais importantes.
+
+--Sobrevivência -------------------------------------Fogo
+       |                                              |
+     Água - Chuva, nascente ou rio------------------Ferver, higienizar.
+     Comida - Caçar ou coletar---------------------Cozinhar ou assar.
+     Abrigo - Localização e Proteção---------------Aquecer, secar e afastar predadores.
+                   |
+              Exploração, mapeamento de área e zonas de perigo ou segurança.
+                              |
+                         Reconhecimento - Lugar mais alto - Ponto de referencia e observação. 
+                          
+
+Aplicações de logica: Decomposição, reconhecimento de padrões e abstração.
