@@ -1,0 +1,55 @@
+Algoritimos
+
+Processamento de Dados: O computador recebe, manipula e armazena dados. 
+
+Definido também como um processo de resolução de problemas, passo-a-passo utilizando instruções para determinar o que precisa ser feito, de forma que se chegue a um entendimento entre humano e maquina.
+
+Desenvolvimento de programa:
+
+- Análise: Estudo e definição dos dados de entrada e saída.
+
+- Algoritimo: Descreve o problema por meio de ferramentas narrativas, fluxograma, ou pseudocódigo.
+
+- Codificação: O algoritimo é codificado de acordo com a linguagem de programação escolhida.
+
+Resolução
+    |
+- Sequencia de passos com objetivo definido
+- Execução de tarefas especificas 
+- Conjunto de operações que resultam em uma sucessão finita de ações.
+
+Exemplos de algoritomos:
+
+- Preparo de sanduiche - Cortar o pão, entre ele, pôr uma fatia de presunto e outra de queijo, feche o pão.
+
+- Trocar uma lâmpada - Pôr uma escada abaixo da lâmpada, suba na escada com a lâmpada nova em mãos, retire a lâmpada usada, instale a nova lâmpada, desça da escada e guarde-a.
+
+Como construir um algoritimo:
+
+- Compreensão do problema - Pontos mais importantes.
+- Definir dados de entrada - Dados fornecidos e Cenário.
+- Definir processamento - Cálculos e restrições.
+- Utilizar um método de construção - Teste de diagnostico - Construção e refinamento do algoritimo.
+
+Tipos de Construção de Algoritimos:
+
+- Narrativa - Utilização da linguagem natural - Sem conceitos novos - Diversas interpretações possíveis.
+
+- Fluxograma - Utilização de símbolos pré-definidos - Simples entendimento - Conhecimento prévio das estruturas de símbolos.
+
+- Pseudocódigo - Linguagens de programação - Regras definidas - Passos a serem seguidos.
+
+Exemplo: Multiplicação de dois números.
+
+Passo 1 - Recebe os valores - |Inicio| - |2.2|
+Passo 2 - Multiplica - |M = 2.2|
+Passo 3 - Imprime Resultado - |M = 4| - Fim
+
+Exemplo de Situação Alternativa "Se" ou "Caso Contrario": Media dos Alunos.
+
+Passo 1 - Recebe os Valores - |Inicio| - |N1, N2|
+Passo 2 - Media Aritmética - |M = (N1+N2)/2|
+Passo 3 - Imprime Resultado - |M = N3|
+Passo 4 - Regra/Condição da Aprovação - |M| - |=>7| - Aprovado.
+                                         |
+                                        |<7| - Reprovado.

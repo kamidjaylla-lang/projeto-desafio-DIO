@@ -1,0 +1,26 @@
+Decomposição
+
+Consiste em quebrar um problema grande em unidades menores que podem ser tratadas separadamente. Ao fazer isso, a complexidade do problema é reduzida, facilitando a compreensão e o desenvolvimento de soluções mais específicas e eficazes
+
+Estratégias:
+Análise - Processo de quebrar e determinar partes menores e gerenciáveis para em seguida, analisar, estudar, explorar e concluindo por decompor em elementos constituíveis a fim de realizar um exame detalhado.
+
+Síntese - Processo de reconstrução que consiste em resumir elementos distintos em um único elemento, ou seja, fundir elementos de maneira coerente.
+
+Aplicação de Estratégia
+
+Ordem de execução de tarefas menores:
+
+- Sequencial - Dependência entra tarefas, executadas em fila.
+
+- Paralelo - Tarefas podem ser executadas de forma simultânea.
+
+Como Decompor: Entenda os componentes do problema e identifique as características e dependências, deixando o principal em segundo plano.
+
+Exemplo do Cotidiano: Cozinhar - Identificar os ingredientes - Determinar as etapas - Executar as etapas - Executar cada etapa - Agregar os ingredientes para finalizar (recompor com coerência).
+
+Exemplo Simples: Funcionamento de uma bicicleta - Identificar componentes - Função de cada componente - Interdependência das peças - Funcionamento do Sistema.
+
+Exemplo Complexo: Criação de um App - Finalidade - Interface - Funcionalidades - Requisitos antecipados - Definição de componentes e etapas - Desenvolvimento mais eficiente.
+
+

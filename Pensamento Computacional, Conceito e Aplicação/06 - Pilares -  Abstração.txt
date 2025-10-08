@@ -1,0 +1,33 @@
+Abstração
+
+- Abstrair: É o ato de observar, um ou mais elementos avaliando características e propriedades em separado, processando o isolamento de singularidades do todo.
+
+- Generalizar: Tornar de modo geral, mais amplo, extensão, ou seja, a generalização é uma operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares.
+
+Exemplo: "Pássaro" é uma palavra referente ao conjunto de seres que tem penas e em sua maioria voam.
+
+Classificação de Dados:
+
+- Características - Pontos Essenciais - Generalizar x Detalhar.
+
+Exemplo: Representação de Dados de Estudantes.
+
+(Pontos Essenciais)     (Detalhes)
+         |                  |
+ - Nome Completo        - Trabalho
+ - Matricula            - Tem Filhos  
+ - Endereço             - Tamanho do Calçado
+ - Campus               - Estilo de roupa
+ - Curso                - Corte de Cabelo  
+ - Telefone             - Gosto Musical
+ - E-Mail               - Filme Preferido
+
+Exemplo 2: Limpeza de Um Terreno
+
+(Pontos Essenciais)      (Detalhes)
+         |                   |
+    - Tempo              - Altura da Grama 
+    - Distancia          - Tipos de Planta
+    - Clima              - Pedras no Caminho
+    - Utensílios         - Roupa Para Usar
+

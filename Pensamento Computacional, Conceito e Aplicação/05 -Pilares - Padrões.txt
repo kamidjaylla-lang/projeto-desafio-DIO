@@ -1,0 +1,16 @@
+Reconhecimento de Padrões
+
+- Reconhecer Padrões: É o ato de identificar similaridades, o processo de encontrar características e semelhanças compartilhadas por diferentes elementos ou problemas.
+
+- Simplificação: Ajuda a simplificar problemas complexos ao identificar componentes que se repetem ou seguem uma lógica.
+
+- Criação de soluções eficientes: Ao reconhecer um padrão, é possível desenvolver uma solução que possa ser reutilizada para outros problema com o mesmo padrão, economizando tempo e esforço.
+
+Padrões: Modelo base - Estrutura invariante - Repetição. 
+
+Exemplo: Um upload de uma foto em uma rede social se torna um metadado que, uma vez dentro da plataforma e através dela, é realizado um processo de compressão, e por fim, a imagem é salva em um banco de dados, otimizando o uso de armazenamento. O processo de compressão é utilizado por diversas plataformas.
+
+Exemplo 2: Os médicos usam reconhecimento de padrões para identificar doenças, observando a presença sintomas que se repetem em pacientes com a mesma condição.
+
+Exemplo 3: Ao usar ferramentas de Inteligência Artificial como o Chat GPT, você pode aprender a reconhecer padrões de como a I.A processa e gera informações para escrever prompts mais eficazes.
+
