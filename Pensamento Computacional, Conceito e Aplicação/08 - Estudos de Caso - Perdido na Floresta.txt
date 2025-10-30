@@ -19,3 +19,17 @@ Como resolver o problema utilizando pensamento computacional:
                           
 
 Aplicações de logica: Decomposição, reconhecimento de padrões e abstração.
+
+
+--Preparação da comida -----------------------------Pescar
+           |                                          |
+  Colocar água na panela ----------------------Limpar o peixe.
+           |                                          |
+    Ferver a água-----------------------------Cortar, destripar e tirar espinhas.
+           |                                          |
+     Fazer o cozido-----------------------------Assar o filé.
+                                |
+                              Comer.
+
+
+O mesmo processo da aplicação dessa logica será usado para: Encontrar água, construir abrigo e maximizar as chances de resgate.
