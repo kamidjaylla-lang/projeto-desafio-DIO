@@ -1,0 +1,13 @@
+Lógica existe para a resolução de: Problema - Questão - Proposta duvidosa - Objeto de discussão - Numerosas soluções.
+
+Definição formal: Problema é uma questão que foge a uma determinada regra, ou melhor é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia.
+
+Definição formal de lógica: Parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência etc.) e das operações intelectuais que visam a determinarção do que é verdadeiro ou não.
+
+A lógica tem sentido de: Organização coesa - Forma de raciocínio - Ordenação que segue convenções - Forma como desencadeiam acontecimentos.
+
+Definição ao meio computacional: Organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.
+
+Essas definições também se aplicam no cotidiano do ser humano, sendo que usamos instruções pré-planejadas para executar ações do dia a dia.
+Ex: Preparo do café, almoço e janta - Escovar os dentes, tomar banho - Seguir percurso para casa ou trabalho. Nisso se aplicam algoritmos, uma das formas de lógica.
+Seres humanos podem prever comportamentos, computadores não, isso porque eles precisam de instruções para processar os dados e é aí que se aplica a lógica de programação.
