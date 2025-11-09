@@ -1,0 +1,26 @@
+Técnicas
+
+Técnica Linear:
+-Modelo tradicional.
+-Não tem vinculo.
+-Estrutura hierárquica.
+-Programação de computadores. 
+
+Essa técnica pode ser descrita como uma execução sequenciada, uma série de operações, ordenação de elementos por uma única propriedade tendo recursos limitados, uma única dimensão.
+Ou seja, é usada geralmente para ordenar algoritmos em que a sequencia de passos tem dependência entre si.
+
+Técnica Estruturada:
+-Estrutura
+-Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato).
+
+Os objetivos dessa técnica geralmente são para a melhoria de: 
+Escrita de programas - Entendimento - Validação - Manutenção <- Facilitar.
+
+Técnica Modular:
+-Partes independentes.
+-Controlada por um conjunto de regras.
+-Dados de entrada - Processo de transformação - Dados de saída.
+
+As metas dessa técnica geralmente são
+-Simplificação de algoritmos - Decomposição de problemas - Verificação do modulo.
+
