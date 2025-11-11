@@ -1,0 +1,32 @@
+Qual a função do computador: Processar informações, sendo de dois tipos, dados e instruções
+
+Os dados são tratados e processados, existem os seguintes tipos de dados:
+
+-Numéricos - Compostos por números inteiros que são os positivos e negativos que não possuem casas decimais e os números reais que são os positivos e negativos que possuem casas decimais.
+
+-Caracteres - É um elemento de um sistema de escrita, como letras números, sinais de pontuação e outros símbolos.
+
+-Lógico - É representado por 2 resultados possíveis sendo Verdadeiro - 1 e Falso - 0 e dentro do português estruturado geralmente escrito como .Verdadeiro ou .Falso e .V ou .F.
+
+Para processar os dados será necessária uma ou mais variáveis.
+
+A variável é uma estrutura mutável que pode ser inconstante, instável e incerta podendo sobrepor a si mesma em um processo que possui variações, ou seja pode não reconhecer o valor dos dados que serão recebidos, mas reconhece que tipo de dados a ser processados e dessa forma, assume qualquer um dos valores do determinado conjunto, estando restrita é claro a assumir apenas o tipo de dado recebido.
+
+Ex: a - b = d, a + b = c. Nesse exemplo o valor resultante pode ser incerto mas o tipo de variável identificado é de caractere.
+
+Regras da variável:
+
+-Nome da variável.(ex: Senha, e-mail, CPF, matricula, endereço etc.)
+-Atribuição de um ou mais caracteres.
+-Primeira letra - Não número.
+-Sem espaços em branco.
+-Vedado.
+-Utilização de palavras reservadas.
+-Caracteres e números.
+
+Dentro de um programa, as variáveis podem ter dois papeis, sendo eles:
+-Ação - Modificação de estado
+-Controle - Vigiada com controle de estruturas.
+
+Constante é tudo aquilo que é fixo ou estável, ou seja, o que não muda, inalterável, invariável e imutável. Dito isso, ainda é possível obter variáveis dentro de constantes.
+Ex: Números pares, o número 2 possui sucessores variáveis infinitos: 4, 6, 8, 10, etc. Dentro dessa constante essas variáveis sempre serão a mesma se mantendo inalteradas.
