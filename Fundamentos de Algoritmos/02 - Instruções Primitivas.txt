@@ -1,0 +1,24 @@
+O que são instruções, definição formal: Instruções são linguagens de palavras-chave (vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá tratar os dados.
+
+Exemplo - Supondo que idiomas fossem linguagens de programação diferentes e a palavra chave de comando "janela" fosse atribuído a cada linguagem, os dados de entrada do comando seriam descritos conforme a linguagem, eis o exemplo:
+
+1 - Português: Janela
+2 - Inglês: Window
+3 - Espanhol: Ventana
+
+Conclui-se que cada linguagem tem sua sintaxe particular e que as notações estão relacionadas aos operadores.
+
+O conceito de entrada, processamento e saída de dados também pode ser descrito como uma das formas de instrução.
+
+Exemplo - Media Escolar:
+
+Inicio do programa.
+Nota 1 = 5 <- Dado de entrada. <-- Variável.
+Nota 2 = 8 <- Dado de entrada. <-- Variável.
+Resultado = 0 <- Variável com valor pré-definido.
+Media = (Nota 1 + Nota 2)/2 <- Processamento de dados. <-- Constante
+Escreva Resultado <- Instrução.
+Fim do programa <- Finalização do processo.
+Media = 6.5 <- Saída de dados.
+
+No exemplo foi executada uma estrutura sequencial.
