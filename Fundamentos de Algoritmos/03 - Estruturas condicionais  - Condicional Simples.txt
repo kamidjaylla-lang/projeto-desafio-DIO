@@ -1,0 +1,39 @@
+Condição: Estado de uma pessoa ou coisa.
+
+Condicional: Expressa uma condição ou suposição, contem ou implica uma suposição ou hipótese.
+
+Tipos de Estruturas Condicionais:
+
+-Simples: A condição deve ser satisfeita de acordo com a operação.
+-Composta: Pode haver exceções caso a condição não seja satisfeita.
+-Encadeada: Condições e operações estão presentes dentro de outras formando uma "cadeia" sucessiva permitindo varias alternativas possíveis.
+
+Operadores Relacionais:
+
+Símbolo    Significado
+   |            |
+   =         Igual a.
+   <>     Diferente de.
+   >        Maior que.
+   <        Menor que.
+   >=     Maior ou igual a.
+   <=     Menor ou igual a.
+
+ Exemplo de Estrutura Condicional:
+ 
+           Inicio                    Inicio do programa:
+             |                     Variáveis
+            A,B                       Pontuação 1, Pontuação 2, Total: Inteiro  
+             |                     Inicio 
+         X <- A + B                   // 1. Entrada de dados
+             |                        Ler Semestre 1                                
+         N--X>10--S                   Ler Semestre 2
+         |        |                   
+         |        X                   // 2. Processamento
+         |_ Fim  _|                   Total <- (Semestre 1 + Semestre 2)/2
+                                        
+                                      // 3. Condicional Simples
+                                      SE Total >= 10 ENTÃO 
+                                         ESCREVER "Aprovado! Total de Pontos:", Total
+                                      FIM SE
+                                      
