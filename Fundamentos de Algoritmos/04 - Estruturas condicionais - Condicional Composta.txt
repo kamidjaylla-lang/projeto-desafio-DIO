@@ -13,7 +13,7 @@ Exemplo de Estrutura Condicional Composta:
              |                     Inicio 
          X <- A + B                   // 1. Entrada de dados
              |                        Ler Semestre 1                                
-         N--X>10--S                   Ler Semestre 2
+         N--X>=10--S                  Ler Semestre 2
          |        |                   
          |        X                   // 2. Processamento
          |_ Fim  _|                   Total <- (Semestre 1 + Semestre 2)/2
@@ -29,4 +29,5 @@ Modo de operação: Se (<condição>) então
                       <instruções para condição verdadeira>
                   Senão
                       <instruções para condição falsa>
+
                   fim_se
