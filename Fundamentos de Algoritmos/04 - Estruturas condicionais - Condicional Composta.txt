@@ -1,0 +1,32 @@
+A estrutura condicional composta permite que um programa execute um bloco de instruções se uma condição for verdadeira e outro bloco de instruções se a condição for falsa. Essa estrutura é formada por um SE (ou IF) e um SENÃO (ou ELSE) e é usada para tomar decisões, como por exemplo verificar se um número é par ou ímpar, ou se uma idade é maior ou menor de idade. 
+
+Uma estrutura condicional composta é uma ferramenta de programação que oferece duas rotas de execução de código com base no resultado de uma única condição. 
+
+- Condição Verdadeira: Um bloco de comandos é executado.
+- Condição Falsa: Um bloco de comandos diferente é executado. 
+
+Exemplo de Estrutura Condicional Composta:
+
+           Inicio                    Inicio do programa:
+             |                     Variáveis
+            A,B                       Pontuação 1, Pontuação 2, Total: Inteiro  
+             |                     Inicio 
+         X <- A + B                   // 1. Entrada de dados
+             |                        Ler Semestre 1                                
+         N--X>10--S                   Ler Semestre 2
+         |        |                   
+         |        X                   // 2. Processamento
+         |_ Fim  _|                   Total <- (Semestre 1 + Semestre 2)/2
+                                        
+                                      // 3. Condicional Simples
+                                      SE Total >= 10 ENTÃO 
+                                         ESCREVER "Aprovado! Total de Pontos:", Total
+                                      SENÃO
+                                         ESCREVER "Recuperação."
+                                      FIM SE
+
+Modo de operação: Se (<condição>) então
+                      <instruções para condição verdadeira>
+                  Senão
+                      <instruções para condição falsa>
+                  fim_se
