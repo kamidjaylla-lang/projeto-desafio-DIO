@@ -19,7 +19,7 @@ Símbolo    Significado
    >=     Maior ou igual a.
    <=     Menor ou igual a.
 
- Exemplo de Estrutura Condicional:
+ Exemplo de Estrutura Condicional Simples:
  
            Inicio                    Inicio do programa:
              |                     Variáveis
@@ -36,4 +36,11 @@ Símbolo    Significado
                                       SE Total >= 10 ENTÃO 
                                          ESCREVER "Aprovado! Total de Pontos:", Total
                                       FIM SE
-                                      
+
+A estrutura condicional simples é um comando de programação que executa um bloco de código somente se uma condição for verdadeira. Se a condição for falsa, o bloco é simplesmente ignorado e a execução do programa continua. A estrutura utiliza a palavra-chave SE (ou if em outras linguagens) para tomar essa decisão. 
+
+- A estrutura condicional simples é um comando que permite ao programa tomar uma decisão.
+- Ela avalia uma condição, que pode ser verdadeira ou falsa.
+- Se a condição for verdadeira, um conjunto de instruções é executado.
+- Se a condição for falsa, nada acontece e o programa prossegue para a próxima instrução após a estrutura. 
+
