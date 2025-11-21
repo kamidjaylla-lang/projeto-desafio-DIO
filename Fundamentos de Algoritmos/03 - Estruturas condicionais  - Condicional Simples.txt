@@ -29,7 +29,7 @@ Símbolo    Significado
              |                        Ler Semestre 1                                
          N--X>10--S                   Ler Semestre 2
          |        |                   
-         |        X                   // 2. Processamento
+         |        V                   // 2. Processamento
          |_ Fim  _|                   Total <- (Semestre 1 + Semestre 2)/2
                                         
                                       // 3. Condicional Simples
@@ -43,4 +43,9 @@ A estrutura condicional simples é um comando de programação que executa um bl
 - Ela avalia uma condição, que pode ser verdadeira ou falsa.
 - Se a condição for verdadeira, um conjunto de instruções é executado.
 - Se a condição for falsa, nada acontece e o programa prossegue para a próxima instrução após a estrutura. 
+
+Modo de operação: se (<condição>) então
+                      <instruções para condição verdadeira>
+                  fim_se
+
 
