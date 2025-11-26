@@ -1,0 +1,37 @@
+A estrutura condicional encadeada é usada para lidar com situações que envolvem mais de duas possibilidades. Em vez de uma simples verificação (if-else), ela aninha múltiplos testes dentro uns dos outros para tomar uma decisão mais específica com base em várias condições. 
+
+Exemplo de Estrutura Encadeada: 
+
+            Inicio                    Inicio do programa:
+             |                     Variáveis
+            A,B                       Pontuação 1, Pontuação 2, Total: Inteiro
+             |                        Recuperação: Texto 
+             |                     Inicio 
+         X <- A + B                   // 1. Entrada de dados
+             |                        Ler Pontuação 1                                
+         N--X>10--S                   Ler Pontuação 2
+         |        |                   
+        RF        RV                  // 2. Processamento
+         |_ Fim  _|                   Total <- (Semestre 1 + Semestre 2)/2
+                                        
+                                      // 3. Condicional Encadeada
+                                      SE Total >= 10 ENTÃO 
+                                         ESCREVER "Aprovado! Total de Pontos:", Total
+                                      SENÃO
+                                         ESCREVER "Deseja fazer a recuperação?"
+                                         LER "Recuperação"
+                                      SE R = "sim"
+                                         ESCREVER "Iniciando Recuperação..."
+                                      SENÃO 
+                                         ESCREVER "Encerrando.."
+                                      FIM SE
+
+Modo de operação: Se (<condição>1) então
+                      <instruções para condição verdadeira>
+                  Senão
+                     Se (<condição>2)
+                         <instruções para: condição 2 verdadeira e condição 1 falsa>
+                     Senão
+                         <instruções para: condição 1 e 2 falsas>
+                  fim_se
+                  
