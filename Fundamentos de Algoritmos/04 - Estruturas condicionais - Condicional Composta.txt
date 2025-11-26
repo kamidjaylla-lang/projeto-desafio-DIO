@@ -12,11 +12,11 @@ Exemplo de Estrutura Condicional Composta:
             A,B                       Pontuação 1, Pontuação 2, Total: Inteiro  
              |                     Inicio 
          X <- A + B                   // 1. Entrada de dados
-             |                        Ler Semestre 1                                
-         N--X>=10--S                  Ler Semestre 2
+             |                        Ler Pontuação 1                                
+         N--X>=10--S                  Ler Pontuação 2
          |        |                   
          |        X                   // 2. Processamento
-         |_ Fim  _|                   Total <- (Semestre 1 + Semestre 2)/2
+         |_ Fim  _|                   Total <- (Pontuação 1 + Pontuação 2)/2
                                         
                                       // 3. Condicional Simples
                                       SE Total >= 10 ENTÃO 
@@ -31,3 +31,4 @@ Modo de operação: Se (<condição>) então
                       <instruções para condição falsa>
 
                   fim_se
+
