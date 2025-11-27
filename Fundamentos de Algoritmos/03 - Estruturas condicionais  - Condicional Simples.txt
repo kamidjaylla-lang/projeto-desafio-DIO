@@ -8,17 +8,6 @@ Tipos de Estruturas Condicionais:
 -Composta: Pode haver exceções caso a condição não seja satisfeita.
 -Encadeada: Condições e operações estão presentes dentro de outras formando uma "cadeia" sucessiva permitindo varias alternativas possíveis.
 
-Operadores Relacionais:
-
-Símbolo    Significado
-   |            |
-   =         Igual a.
-   <>     Diferente de.
-   >        Maior que.
-   <        Menor que.
-   >=     Maior ou igual a.
-   <=     Menor ou igual a.
-
  Exemplo de Estrutura Condicional Simples:
  
            Inicio                    Inicio do programa:
@@ -47,5 +36,6 @@ A estrutura condicional simples é um comando de programação que executa um bl
 Modo de operação: se (<condição>) então
                       <instruções para condição verdadeira>
                   fim_se
+
 
 
