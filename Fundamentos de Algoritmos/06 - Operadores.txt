@@ -1,0 +1,43 @@
+Os operadores desempenham um papel crucial nas estruturas condicionais, atuando como ferramentas de tomada de decisão que determinam qual bloco de código será executado. Eles avaliam as condições e retornam um valor booleano (verdadeiro ou falso), que orienta o fluxo do programa.
+
+existem vários tipos de operadores sendo eles os seguintes:
+
+Operadores Relacionais - Esses operadores comparam dois valores e retornam verdadeiro se a relação for verdadeira e falso caso contrário, sendo representados pelos seguintes símbolos:
+
+Símbolo    Significado
+   |            |
+   =         Igual a.
+   <>     Diferente de.
+   >        Maior que.
+   <        Menor que.
+   >=     Maior ou igual a.
+   <=     Menor ou igual a.
+
+Operadores lógicos - Esses operadores combinam múltiplas expressões booleanas ou invertem o valor de uma expressão, permitindo a criação de condições complexas.
+
+    Operador                     Definição     
+       |                             |
+     (AND): Retorna verdadeiro apenas se ambas as condições forem verdadeiras.(interseção)
+   Exemplo: .
+            se (gramatica .e. convercacao) então
+                escreva "aprovado"
+            senão 
+                escreva "reprovado"
+
+      (OR): Retorna verdadeiro se pelo menos uma das condições for verdadeira.(união)
+   Exemplo: 
+            se (choveu .ou. grama_molhada) então
+                escreva "plantas regadas"
+            senão
+                escreva "regar plantas"
+
+     (NOT): Nega ou Inverte o resultado lógico da condição.
+   Exemplo: 
+          Área A    Área B
+         __|____      |  
+        |      _|_____|___
+        |     |n|         |
+        |     |o|         |
+        |     |ṯ|_________|
+        |_______|
+        Not B -> tudo que não está em B
