@@ -1,0 +1,40 @@
+As estruturas de repetição, ou loops, são ferramentas fundamentais em algoritmos que permitem executar um bloco de instruções múltiplas vezes. Elas automatizam tarefas repetitivas e evitam a necessidade de escrever o mesmo código várias vezes. 
+
+Definição e Função:
+
+-Definição - Uma estrutura de repetição é um bloco de código que continua a ser executado enquanto (ou até que) uma determinada condição lógica seja verdadeira, ou por um número especificado de vezes.
+
+-Função - O objetivo principal é controlar o fluxo de execução do algoritmo, permitindo a iteração (repetição) de um conjunto de comandos. Isso é crucial para processar listas de dados, realizar cálculos contínuos, ou interagir com o usuário até que uma entrada válida seja fornecida. 
+
+Existem três tipos de estruturas de repetição, sendo elas as seguintes:
+
+1 - Enquanto
+Exemplo - Cortar grama alta no terreno.                           
+Enquanto a grama estiver alta eu continuo aparando a grama
+Teste lógico - inicio
+Numero de repetições - indefinido
+
+Em forma de algoritmo:
+
+grama = Falso
+Enquanto(grama==falso)faça
+ <instruções de cortar grama>
+ <atualiza grama>
+fim enquanto
+
+2 - Repita
+Exemplo - Ao procurar um artigo especifico de uma revista a instrução é:
+Procurar artigo - Virar a pagina - Analisar conteúdo
+Repita até encontrar o artigo
+Teste lógico - final
+Numero de repetições - indefinido
+
+3 - Para...de...até 
+Exemplo - Somatório
+Teste lógico - inicio
+Numero de repetições - definido
+somatório = 0
+para inicio = 1 até 10
+ somatório = somatório + inicio
+ Escreva somatório 
+fim para
